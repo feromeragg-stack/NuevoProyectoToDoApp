@@ -108,3 +108,16 @@ Fernando Romera — contacto en el perfil de GitHub.
 ---
 
 Gracias por usar / revisar el proyecto. Si quieres, puedo añadir una sección con imágenes, GIFs o una demo en línea.
+
+---
+
+## 🖼️ Demo / Capturas
+
+Desktop:
+
+![Captura desktop](./assets/screenshot-desktop.svg)
+
+Mobile:
+
+![Captura mobile](./assets/screenshot-mobile.svg)
+
