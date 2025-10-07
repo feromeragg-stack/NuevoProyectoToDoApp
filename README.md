@@ -45,7 +45,7 @@ npm run deploy    # ejecuta predeploy -> build y sube dist/ a gh-pages
 ## 📁 Estructura del proyecto
 
 ```
-. 
+.
 ├─ index.html
 ├─ package.json
 ├─ vite.config.mjs
@@ -120,4 +120,3 @@ Desktop:
 Mobile:
 
 ![Captura mobile](./assets/screenshot-mobile.svg)
-
