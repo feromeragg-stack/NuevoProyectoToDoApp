@@ -282,10 +282,14 @@ export default function App() {
                           className="w-full rounded border px-2 py-1"
                         />
                       )}
-                      <div className={`text-xs mt-1 ${theme === "light" ? "text-black" : "text-slate-400"}`}>
+                      <div
+                        className={`text-xs mt-1 ${
+                          theme === "light" ? "text-black" : "text-slate-400"
+                        }`}
+                      >
                         Creada: {fmt(t.createdAt)}
                         {t.completed && t.completedAt
-                          ? ` 
+                          ? `
                             · Completada: ${fmt(t.completedAt)}`
                           : ""}
                       </div>

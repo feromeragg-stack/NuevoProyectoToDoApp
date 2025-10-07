@@ -11,6 +11,7 @@ body,
   height: 100%;
 }
 body {
+  background-color: #c8ad7e; /* Fondo beige para el modo blanco */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

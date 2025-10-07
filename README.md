@@ -95,7 +95,7 @@ Si tu `type` en `package.json` está en `module` (ESM), `postcss.config.cjs` y `
 
 ---
 
-## � Contribuir
+## 📨 Contribuir
 
 Si quieres contribuir, abre un issue o envía un pull request. Para cambios rápidos: forkea, crea una rama, commitea y abre PR.
 
